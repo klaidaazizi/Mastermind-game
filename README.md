@@ -15,4 +15,4 @@ RULES:
 - If there is no leaderboard text file, the program creates a new one and adds the winner accordingly.
 - The user also has the option to quit the game, by clicking on the quit gif, which will exit out of the game after another click.
 
-Game is coded using Python and the Turtle library
+Language: Python 
